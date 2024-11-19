@@ -90,6 +90,11 @@ h1, h3 {
   color: #15879f;
 }
 
+.link-nav{
+  border: solid 0.5px #ffffff;
+  border-radius: 4px;
+  padding: 2px;
+}
 .main-container{
   display: flex;
   flex-wrap: wrap;
